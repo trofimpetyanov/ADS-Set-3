@@ -1,0 +1,3 @@
+/Users/tapetyanov/Downloads/Program/cmake-build-debug/CMakeFiles/Program.dir
+/Users/tapetyanov/Downloads/Program/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tapetyanov/Downloads/Program/cmake-build-debug/CMakeFiles/rebuild_cache.dir

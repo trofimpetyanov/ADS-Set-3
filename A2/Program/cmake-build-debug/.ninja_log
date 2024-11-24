@@ -1,0 +1,25 @@
+# ninja log v6
+5	441	1732474633514580879	CMakeFiles/Program.dir/sortAlgorithms.cpp.o	798765d0ce5f162a
+4	478	1732474633513880503	CMakeFiles/Program.dir/main.cpp.o	bd1b8dd199b52ad9
+5	481	1732474633514281503	CMakeFiles/Program.dir/arrayGenerator.cpp.o	4d40d27caa0715dd
+5	556	1732474633514445754	CMakeFiles/Program.dir/sortTester.cpp.o	c177e360ea6208f
+556	658	1732474634065767856	Program	c3429244432bdbeb
+7	508	1732476052709929036	CMakeFiles/Program.dir/main.cpp.o	bd1b8dd199b52ad9
+7	585	1732476052710470452	CMakeFiles/Program.dir/sortTester.cpp.o	c177e360ea6208f
+585	668	1732476053287934186	Program	c3429244432bdbeb
+8	389	1732476264385811893	CMakeFiles/Program.dir/main.cpp.o	bd1b8dd199b52ad9
+8	463	1732476264386190434	CMakeFiles/Program.dir/sortTester.cpp.o	c177e360ea6208f
+463	495	1732476264840697861	Program	c3429244432bdbeb
+7	532	1732476484334336835	CMakeFiles/Program.dir/main.cpp.o	bd1b8dd199b52ad9
+7	613	1732476484334646417	CMakeFiles/Program.dir/sortTester.cpp.o	c177e360ea6208f
+613	693	1732476484940471722	Program	c3429244432bdbeb
+12	2720	1732483734141817833	CMakeFiles/Program.dir/main.cpp.o	bd1b8dd199b52ad9
+13	2732	1732483734142158251	CMakeFiles/Program.dir/arrayGenerator.cpp.o	4d40d27caa0715dd
+13	2801	1732483734142287085	CMakeFiles/Program.dir/sortTester.cpp.o	c177e360ea6208f
+2801	4055	1732483736930043528	Program	c3429244432bdbeb
+7	516	1732483804025589854	CMakeFiles/Program.dir/sortTester.cpp.o	c177e360ea6208f
+516	547	1732483804534364429	Program	c3429244432bdbeb
+5	374	1732483852424469795	CMakeFiles/Program.dir/main.cpp.o	bd1b8dd199b52ad9
+5	380	1732483852424774921	CMakeFiles/Program.dir/arrayGenerator.cpp.o	4d40d27caa0715dd
+5	450	1732483852424969505	CMakeFiles/Program.dir/sortTester.cpp.o	c177e360ea6208f
+450	479	1732483852869328594	Program	c3429244432bdbeb
